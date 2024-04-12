@@ -18,3 +18,5 @@ git clone https://github.com/bekku/convert_to_yolo_format_from_csv.git
 ```
 python convert_to_yolo_format_from_csv/convert_to_yolo.py [~export.csv]
 ```
+4. ターゲット接続下に、imagesとlabelsを含むdatasetが作成される
+
